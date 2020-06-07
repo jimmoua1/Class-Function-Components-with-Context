@@ -2,6 +2,6 @@
 
 **Counter Hooks** - is Function Components
 
-Both with Theme Context. 
+Both with **Theme Context**. 
 
-Color Green will be gone if "Toggle Theme" change to Blue or Red.
+Color **Green** will be gone if "Toggle Theme" change to **Blue or Red**.
