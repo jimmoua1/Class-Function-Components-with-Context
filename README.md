@@ -1,5 +1,5 @@
-Counter is Class Components
-Counter Hooks is Function Components
+Counter - is Class Components
+Counter - Hooks is Function Components
 
 Both with Theme Context. 
 
